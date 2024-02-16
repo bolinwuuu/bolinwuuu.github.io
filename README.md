@@ -1,10 +1,12 @@
-# User Support
+# Make Chirps
+
+## User Support
 
 If you need assistance or have any questions about our app, please don't hesitate to contact us. We're here to help!
 
 - **Email:** bolinw@umich.edu
 
-# Privacy Policy
+## Privacy Policy
 
 We are committed to protecting your privacy. Our app does not collect any personal information from users, and no login is required to use our services. We do not track your browsing activity, collect location data, or use cookies to gather information.
 
